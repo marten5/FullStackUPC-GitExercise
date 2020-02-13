@@ -1,3 +1,4 @@
 bye
 second line
 third line from wc1
+third line from wc2
