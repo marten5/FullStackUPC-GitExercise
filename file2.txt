@@ -2,3 +2,4 @@ bye
 second line
 third line from wc1
 third line from wc2
+new line from branch wc2_branched
