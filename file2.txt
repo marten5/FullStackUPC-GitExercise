@@ -3,3 +3,6 @@ second line
 third line from wc1
 third line from wc2
 new line from branch wc2_branched
+
+Let's try to change file2.txt aswell and push more changes into Github.
+Local-Repo wc1 should be able to pull this changes

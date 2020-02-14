@@ -5,3 +5,7 @@ third line from wc1
 Changing file1.txt from wc1 to pull to FullStackUPC-GitExercise.git
 The change shall be than pulled from wc3
 Let's try it!
+
+Change in file1.txt pulled from Github.
+This change will now be pushed into Github and see if wc1 can pull it
+Let's try it!
