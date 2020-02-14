@@ -1,3 +1,7 @@
 hello
 new line
 third line from wc1
+
+Changing file1.txt from wc1 to pull to FullStackUPC-GitExercise.git
+The change shall be than pulled from wc3
+Let's try it!
