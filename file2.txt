@@ -6,3 +6,6 @@ new line from branch wc2_branched
 
 Let's try to change file2.txt aswell and push more changes into Github.
 Local-Repo wc1 should be able to pull this changes
+
+Change pulled into the local repository.
+This means that both local repos wc1 and wc3 are properly connected to Github.
