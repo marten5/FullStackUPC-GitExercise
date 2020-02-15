@@ -9,3 +9,4 @@ Local-Repo wc1 should be able to pull this changes
 
 Change pulled into the local repository.
 This means that both local repos wc1 and wc3 are properly connected to Github.
+Soy Germán, saludos
